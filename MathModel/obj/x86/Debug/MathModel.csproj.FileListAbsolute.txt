@@ -1,0 +1,10 @@
+D:\inspiration\2013数学建模\MathModel\MathModel\bin\Debug\MathModel.exe
+D:\inspiration\2013数学建模\MathModel\MathModel\bin\Debug\MathModel.pdb
+D:\inspiration\2013数学建模\MathModel\MathModel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\inspiration\2013数学建模\MathModel\MathModel\obj\x86\Debug\MathModel.exe
+D:\inspiration\2013数学建模\MathModel\MathModel\obj\x86\Debug\MathModel.pdb
+D:\DocumentReconstruction\MathModel\MathModel\obj\x86\Debug\MathModel.exe
+D:\DocumentReconstruction\MathModel\MathModel\obj\x86\Debug\MathModel.pdb
+D:\DocumentReconstruction\MathModel\MathModel\bin\Debug\MathModel.exe
+D:\DocumentReconstruction\MathModel\MathModel\bin\Debug\MathModel.pdb
+D:\DocumentReconstruction\MathModel\MathModel\obj\x86\Debug\MathModel.csprojResolveAssemblyReference.cache
